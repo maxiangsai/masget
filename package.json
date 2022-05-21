@@ -1,0 +1,11 @@
+{
+  "name": "masget",
+  "version": "0.0.1",
+  "description": "masget front-end cli",
+  "keywords": [],
+  "author": "maxiangsai",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
